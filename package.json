@@ -1,0 +1,31 @@
+{
+  "name": "pentz_api",
+  "version": "1.0.0",
+  "description": "panda street backend",
+  "main": "app.js",
+  "dependencies": {
+    "@solana/web3.js": "^1.37.0",
+    "config": "^3.3.7",
+    "express": "^4.17.3",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.8",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2",
+    "theblockchainapi": "^1.0.939",
+    "underscore": "^1.13.2",
+    "url-metadata": "^2.5.0",
+    "winston": "^3.6.0",
+    "winston-mongodb": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ebuka Rex Amaizu",
+  "license": "MIT"
+}

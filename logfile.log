@@ -1,0 +1,804 @@
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3000..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3002..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 9000..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nftsByWallets.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"movie is not defined movie is not defined","stack":"ReferenceError: movie is not defined\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:23)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Joi.validate is not a function Joi.validate is not a function","stack":"TypeError: Joi.validate is not a function\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:14)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Invalid message options Invalid message options","stack":"Error: Invalid message options\n    at new module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/error.js:23:19)\n    at module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/assert.js:20:11)\n    at Object.exports.compile (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/messages.js:30:5)\n    at Object.exports.preferences (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/common.js:165:36)\n    at Object.exports.entry (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/validator.js:24:27)\n    at internals.Base.validate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/base.js:548:26)\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:17)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)"}
+{"level":"error","message":"Invalid message options Invalid message options","stack":"Error: Invalid message options\n    at new module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/error.js:23:19)\n    at module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/assert.js:20:11)\n    at Object.exports.compile (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/messages.js:30:5)\n    at Object.exports.preferences (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/common.js:165:36)\n    at Object.exports.entry (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/validator.js:24:27)\n    at internals.Base.validate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/base.js:548:26)\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:17)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)"}
+{"level":"error","message":"Invalid message options Invalid message options","stack":"Error: Invalid message options\n    at new module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/error.js:23:19)\n    at module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/assert.js:20:11)\n    at Object.exports.compile (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/messages.js:30:5)\n    at Object.exports.preferences (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/common.js:165:36)\n    at Object.exports.entry (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/validator.js:24:27)\n    at internals.Base.validate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/base.js:548:26)\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:21:17)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Invalid message options Invalid message options","stack":"Error: Invalid message options\n    at new module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/error.js:23:19)\n    at module.exports (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/@hapi/hoek/lib/assert.js:20:11)\n    at Object.exports.compile (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/messages.js:30:5)\n    at Object.exports.preferences (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/common.js:165:36)\n    at Object.exports.entry (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/validator.js:24:27)\n    at internals.Base.validate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/joi/lib/base.js:548:26)\n    at validateUser (/Users/mac/Desktop/WorkSpace/pentz_api/models/user.js:22:17)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:11:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"_message":"User validation failed","errors":{"userName":{"kind":"required","message":"Path `userName` is required.","name":"ValidatorError","path":"userName","properties":{"message":"Path `userName` is required.","path":"userName","type":"required"}},"walletAddress":{"kind":"required","message":"Path `walletAddress` is required.","name":"ValidatorError","path":"walletAddress","properties":{"message":"Path `walletAddress` is required.","path":"walletAddress","type":"required"}}},"level":"error","message":"User validation failed: walletAddress: Path `walletAddress` is required., userName: Path `userName` is required. User validation failed: walletAddress: Path `walletAddress` is required., userName: Path `userName` is required.","stack":"ValidationError: User validation failed: walletAddress: Path `walletAddress` is required., userName: Path `userName` is required.\n    at model.Document.invalidate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/document.js:2953:32)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/document.js:2742:17\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/schematype.js:1324:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"_message":"User validation failed","errors":{"userName":{"kind":"required","message":"Path `userName` is required.","name":"ValidatorError","path":"userName","properties":{"message":"Path `userName` is required.","path":"userName","type":"required"}}},"level":"error","message":"User validation failed: userName: Path `userName` is required. User validation failed: userName: Path `userName` is required.","stack":"ValidationError: User validation failed: userName: Path `userName` is required.\n    at model.Document.invalidate (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/document.js:2953:32)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/document.js:2742:17\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/schematype.js:1324:9\n    at processTicksAndRejections (internal/process/task_queues.js:77:11)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got Rex Nfts Parameter \"filter\" to find() must be an object, got Rex Nfts","stack":"ObjectParameterError: Parameter \"filter\" to find() must be an object, got Rex Nfts\n    at model.Query.Query.find (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/query.js:2282:16)\n    at Function.find (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/mongoose/lib/model.js:2164:13)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:14:32\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Cannot read property '_id' of undefined Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:21:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"error","message":"Cannot read property '_id' of undefined Cannot read property '_id' of undefined","stack":"TypeError: Cannot read property '_id' of undefined\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:21:30\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"req.send is not a function req.send is not a function","stack":"TypeError: req.send is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:21:16\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":"ERR_INVALID_CHAR","level":"error","message":"Invalid character in header content [\"toHexString\"] Invalid character in header content [\"toHexString\"]","stack":"TypeError [ERR_INVALID_CHAR]: Invalid character in header content [\"toHexString\"]\n    at ServerResponse.setHeader (_http_outgoing.js:564:3)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/response.js:779:12)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:21:24\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"success is not defined success is not defined","stack":"ReferenceError: success is not defined\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/nfts.js:21:14\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"string is not defined string is not defined","stack":"ReferenceError: string is not defined\n    at validateManual_nft (/Users/mac/Desktop/WorkSpace/pentz_api/models/manual_nft.js:63:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/routes/manual_nfts.js:14:23\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Nft.findB is not a function Nft.findB is not a function","stack":"TypeError: Nft.findB is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:21:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:360:14)\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:371:14)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"kind":"ObjectId","level":"error","message":"Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"Nft\" Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"Nft\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"user\" (type string) at path \"_id\" for model \"Nft\"\n    at model.Query.exec (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/query.js:4641:21)\n    at model.Query.Query.then (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/query.js:4740:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)","stringValue":"\"user\"","value":"user","valueType":"string"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got user Parameter \"filter\" to find() must be an object, got user","stack":"ObjectParameterError: Parameter \"filter\" to find() must be an object, got user\n    at model.Query.Query.find (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/query.js:2282:16)\n    at Function.find (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:2164:13)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:21:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"chek: [{\n    \"mintAddress\": \"64hZt3RJRDt8cCHyJMn38M4dabJHmzMJjgUvNyUmWgYw\",\n    \"userName\": \"Guy Loco\",\n    \"user\": \"GLoco\",\n    \"usrna\": \"oiwns\",\n    \"uksd\": \"kdd\",\n    \"uswqe\": \"tko\",\n    \"ukto\": \"GujtLoco\"\n}]","expose":true,"level":"error","message":"Unexpected token c in JSON at position 0 Unexpected token c in JSON at position 0","stack":"SyntaxError: Unexpected token c in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:158:10)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:83:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property '_writableState' -> object with constructor 'WritableState'\n    |     property 'afterWriteTickInfo' -> object with constructor 'Object'\n    --- property 'stream' closes the circle Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property '_writableState' -> object with constructor 'WritableState'\n    |     property 'afterWriteTickInfo' -> object with constructor 'Object'\n    --- property 'stream' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property '_writableState' -> object with constructor 'WritableState'\n    |     property 'afterWriteTickInfo' -> object with constructor 'Object'\n    --- property 'stream' closes the circle\n    at JSON.stringify (<anonymous>)\n    at stringify (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:1128:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:260:14)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:158:21)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:24:17\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"user is not defined user is not defined","stack":"ReferenceError: user is not defined\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:57:40\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:341:12)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"error","message":"user is not defined user is not defined","stack":"ReferenceError: user is not defined\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:57:40\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:341:12)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:275:10)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"{\n    \"gallery_name\": \"#104 Panda St Pentz\",\n    \"gallery_image\": \"https://arweave.net/mwzS1hhSnI8grpQtTj1wfaEU1TB4vSh1JchnChPB8Jk\"\n    \"nfts\": []\n    \n}","expose":true,"level":"error","message":"Unexpected string in JSON at position 136 Unexpected string in JSON at position 136","stack":"SyntaxError: Unexpected string in JSON at position 136\n    at JSON.parse (<anonymous>)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Nft.insertOne is not a function Nft.insertOne is not a function","stack":"TypeError: Nft.insertOne is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:22:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:360:14)\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:371:14)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Nft.insertOne is not a function Nft.insertOne is not a function","stack":"TypeError: Nft.insertOne is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:22:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:360:14)\n    at param (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:371:14)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Callback must be a function, got [object Object] Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Function.Model.$handleCallbackError (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:4992:11)\n    at Function.Model.findOneAndDelete (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:2779:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:37:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Callback must be a function, got [object Object] Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Function.Model.$handleCallbackError (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:4992:11)\n    at Function.Model.findOneAndDelete (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:2779:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:37:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22"}
+{"level":"error","message":"Callback must be a function, got [object Object] Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Function.Model.$handleCallbackError (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:4992:11)\n    at Function.Model.findOneAndDelete (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:2779:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:37:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22"}
+{"level":"error","message":"Callback must be a function, got [object Object] Callback must be a function, got [object Object]","stack":"MongooseError: Callback must be a function, got [object Object]\n    at Function.Model.$handleCallbackError (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:4992:11)\n    at Function.Model.findOneAndDelete (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/model.js:2779:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:37:27\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/router/index.js:281:22"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"{\n    \"gallery_name\": \"#104 Panda guy\",\n    \"gallery_image\": \"https://arweave.net/mwzS1hhSnI8grpQtTj1wfaEU1TB4vSh1JchnChPB8Jk\",\n    \"nfts\": [{\n    \"name\": \"#169 Panda St Pentz\",\n    \"symbol\": \"\",\n    \"description\": \"Welcome to the Panda Pentz: Exclusive Penthouses on Panda Street. \",\n    \"seller_fee_basis_points\": 1000,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"VIEW\",\n            \"value\": \"Mountains\"\n        },\n        {\n            \"trait_type\": \"BALCONY\",\n            \"value\": \"Fountain\"\n        },\n        {\n            \"trait_type\": \"FLOOR\",\n            \"value\": \"Purple Concrete\"\n        },\n        {\n            \"trait_type\": \"CEILING\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"WALL\",\n            \"value\": \"Gallery\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR LEFT\",\n            \"value\": \"Squad Photo Frame\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR RIGHT\",\n            \"value\": \"TV\"\n        },\n        {\n            \"trait_type\": \"MAIN SPACE\",\n            \"value\": \"Sunken Living Room\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR LEFT\",\n            \"value\": \"Piano\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR RIGHT\",\n            \"value\": \"Trap door\"\n        },\n        {\n            \"trait_type\": \"LIGHTING\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Pentz\",\n        \"family\": \"Panda Pentz\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"AURERGv3imp3LRcFyyZNLrGLanynTCkZ8mpVZDmXjwn8\",\n                \"share\": 35\n            },\n            {\n                \"address\": \"3YFJrhW1j3Wim2HZeEZ19oCu4AizxvMk6qxxGPLYXfXe\",\n                \"share\": 40\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 25\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\"\n}, {\n    \"name\": \"Panda #4153\",\n    \"symbol\": \"\",\n    \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n    \"seller_fee_basis_points\": 500,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"Background\",\n            \"value\": \"Pink\"\n        },\n        {\n            \"trait_type\": \"Body\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"Eyes\",\n            \"value\": \"Sleepy\"\n        },\n        {\n            \"trait_type\": \"Accessory A\",\n            \"value\": \"Gold Chain\"\n        },\n        {\n            \"trait_type\": \"Clothing\",\n            \"value\": \"White Hoodie\"\n        },\n        {\n            \"trait_type\": \"Hat\",\n            \"value\": \"Top Hat\"\n        },\n        {\n            \"trait_type\": \"Glasses\",\n            \"value\": \"None\"\n        },\n        {\n            \"trait_type\": \"Mouth\",\n            \"value\": \"Excited\"\n        },\n        {\n            \"trait_type\": \"Accessory B\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Street\",\n        \"family\": \"Panda Street\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                \"share\": 80\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 20\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n}, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }]\n    \n}","expose":true,"level":"error","message":"Unexpected token : in JSON at position 4127 Unexpected token : in JSON at position 4127","stack":"SyntaxError: Unexpected token : in JSON at position 4127\n    at JSON.parse (<anonymous>)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"{\n    \"gallery_name\": \"#104 Panda guy\",\n    \"gallery_image\": \"https://arweave.net/mwzS1hhSnI8grpQtTj1wfaEU1TB4vSh1JchnChPB8Jk\",\n    \"nfts\": [{\n    \"name\": \"#169 Panda St Pentz\",\n    \"symbol\": \"\",\n    \"description\": \"Welcome to the Panda Pentz: Exclusive Penthouses on Panda Street. \",\n    \"seller_fee_basis_points\": 1000,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"VIEW\",\n            \"value\": \"Mountains\"\n        },\n        {\n            \"trait_type\": \"BALCONY\",\n            \"value\": \"Fountain\"\n        },\n        {\n            \"trait_type\": \"FLOOR\",\n            \"value\": \"Purple Concrete\"\n        },\n        {\n            \"trait_type\": \"CEILING\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"WALL\",\n            \"value\": \"Gallery\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR LEFT\",\n            \"value\": \"Squad Photo Frame\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR RIGHT\",\n            \"value\": \"TV\"\n        },\n        {\n            \"trait_type\": \"MAIN SPACE\",\n            \"value\": \"Sunken Living Room\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR LEFT\",\n            \"value\": \"Piano\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR RIGHT\",\n            \"value\": \"Trap door\"\n        },\n        {\n            \"trait_type\": \"LIGHTING\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Pentz\",\n        \"family\": \"Panda Pentz\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"AURERGv3imp3LRcFyyZNLrGLanynTCkZ8mpVZDmXjwn8\",\n                \"share\": 35\n            },\n            {\n                \"address\": \"3YFJrhW1j3Wim2HZeEZ19oCu4AizxvMk6qxxGPLYXfXe\",\n                \"share\": 40\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 25\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\"\n}, {\n    \"name\": \"Panda #4153\",\n    \"symbol\": \"\",\n    \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n    \"seller_fee_basis_points\": 500,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"Background\",\n            \"value\": \"Pink\"\n        },\n        {\n            \"trait_type\": \"Body\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"Eyes\",\n            \"value\": \"Sleepy\"\n        },\n        {\n            \"trait_type\": \"Accessory A\",\n            \"value\": \"Gold Chain\"\n        },\n        {\n            \"trait_type\": \"Clothing\",\n            \"value\": \"White Hoodie\"\n        },\n        {\n            \"trait_type\": \"Hat\",\n            \"value\": \"Top Hat\"\n        },\n        {\n            \"trait_type\": \"Glasses\",\n            \"value\": \"None\"\n        },\n        {\n            \"trait_type\": \"Mouth\",\n            \"value\": \"Excited\"\n        },\n        {\n            \"trait_type\": \"Accessory B\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Street\",\n        \"family\": \"Panda Street\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                \"share\": 80\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 20\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n}, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }]\n    \n}","expose":true,"level":"error","message":"Unexpected token : in JSON at position 4127 Unexpected token : in JSON at position 4127","stack":"SyntaxError: Unexpected token : in JSON at position 4127\n    at JSON.parse (<anonymous>)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"{\n    \"gallery_name\": \"#104 Panda guy\",\n    \"gallery_image\": \"https://arweave.net/mwzS1hhSnI8grpQtTj1wfaEU1TB4vSh1JchnChPB8Jk\",\n    \"nfts\": [{\n    \"name\": \"#169 Panda St Pentz\",\n    \"symbol\": \"\",\n    \"description\": \"Welcome to the Panda Pentz: Exclusive Penthouses on Panda Street. \",\n    \"seller_fee_basis_points\": 1000,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"VIEW\",\n            \"value\": \"Mountains\"\n        },\n        {\n            \"trait_type\": \"BALCONY\",\n            \"value\": \"Fountain\"\n        },\n        {\n            \"trait_type\": \"FLOOR\",\n            \"value\": \"Purple Concrete\"\n        },\n        {\n            \"trait_type\": \"CEILING\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"WALL\",\n            \"value\": \"Gallery\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR LEFT\",\n            \"value\": \"Squad Photo Frame\"\n        },\n        {\n            \"trait_type\": \"WALL DECOR RIGHT\",\n            \"value\": \"TV\"\n        },\n        {\n            \"trait_type\": \"MAIN SPACE\",\n            \"value\": \"Sunken Living Room\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR LEFT\",\n            \"value\": \"Piano\"\n        },\n        {\n            \"trait_type\": \"FLOOR DECOR RIGHT\",\n            \"value\": \"Trap door\"\n        },\n        {\n            \"trait_type\": \"LIGHTING\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Pentz\",\n        \"family\": \"Panda Pentz\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"AURERGv3imp3LRcFyyZNLrGLanynTCkZ8mpVZDmXjwn8\",\n                \"share\": 35\n            },\n            {\n                \"address\": \"3YFJrhW1j3Wim2HZeEZ19oCu4AizxvMk6qxxGPLYXfXe\",\n                \"share\": 40\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 25\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/WxvhEIM98BENnhr1t3p6cEVsrH9dO0pNyBLl9-KorEo\"\n}, {\n    \"name\": \"Panda #4153\",\n    \"symbol\": \"\",\n    \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n    \"seller_fee_basis_points\": 500,\n    \"external_url\": \"https://pandastreet.art/\",\n    \"attributes\": [\n        {\n            \"trait_type\": \"Background\",\n            \"value\": \"Pink\"\n        },\n        {\n            \"trait_type\": \"Body\",\n            \"value\": \"Purple\"\n        },\n        {\n            \"trait_type\": \"Eyes\",\n            \"value\": \"Sleepy\"\n        },\n        {\n            \"trait_type\": \"Accessory A\",\n            \"value\": \"Gold Chain\"\n        },\n        {\n            \"trait_type\": \"Clothing\",\n            \"value\": \"White Hoodie\"\n        },\n        {\n            \"trait_type\": \"Hat\",\n            \"value\": \"Top Hat\"\n        },\n        {\n            \"trait_type\": \"Glasses\",\n            \"value\": \"None\"\n        },\n        {\n            \"trait_type\": \"Mouth\",\n            \"value\": \"Excited\"\n        },\n        {\n            \"trait_type\": \"Accessory B\",\n            \"value\": \"None\"\n        }\n    ],\n    \"collection\": {\n        \"name\": \"Panda Street\",\n        \"family\": \"Panda Street\"\n    },\n    \"properties\": {\n        \"files\": [\n            {\n                \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                \"type\": \"image/png\"\n            }\n        ],\n        \"category\": \"image\",\n        \"maxSupply\": 1,\n        \"creators\": [\n            {\n                \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                \"share\": 80\n            },\n            {\n                \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                \"share\": 20\n            }\n        ]\n    },\n    \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n}, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }, \"name\": \"Panda #4153\",\n            \"symbol\": \"\",\n            \"description\": \"Panda Street is a collection of 7,777 algo-generated and hand-drawn Panda NFTs, which exist on the Solana Blockchain.\",\n            \"seller_fee_basis_points\": 500,\n            \"external_url\": \"https://pandastreet.art/\",\n            \"attributes\": [\n                {\n                    \"trait_type\": \"Background\",\n                    \"value\": \"Pink\"\n                },\n                {\n                    \"trait_type\": \"Body\",\n                    \"value\": \"Purple\"\n                },\n                {\n                    \"trait_type\": \"Eyes\",\n                    \"value\": \"Sleepy\"\n                },\n                {\n                    \"trait_type\": \"Accessory A\",\n                    \"value\": \"Gold Chain\"\n                },\n                {\n                    \"trait_type\": \"Clothing\",\n                    \"value\": \"White Hoodie\"\n                },\n                {\n                    \"trait_type\": \"Hat\",\n                    \"value\": \"Top Hat\"\n                },\n                {\n                    \"trait_type\": \"Glasses\",\n                    \"value\": \"None\"\n                },\n                {\n                    \"trait_type\": \"Mouth\",\n                    \"value\": \"Excited\"\n                },\n                {\n                    \"trait_type\": \"Accessory B\",\n                    \"value\": \"None\"\n                }\n            ],\n            \"collection\": {\n                \"name\": \"Panda Street\",\n                \"family\": \"Panda Street\"\n            },\n            \"properties\": {\n                \"files\": [\n                    {\n                        \"uri\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\",\n                        \"type\": \"image/png\"\n                    }\n                ],\n                \"category\": \"image\",\n                \"maxSupply\": 1,\n                \"creators\": [\n                    {\n                        \"address\": \"5sXfGcNi5WF6uFVs7bDXcJxmSHZo2S9kxViWQP1h3n8V\",\n                        \"share\": 80\n                    },\n                    {\n                        \"address\": \"Hv6Ghc4RKHDbBYWbsSpEiixfR3Uttvx5CwHDEfB2gCtS\",\n                        \"share\": 20\n                    }\n                ]\n            },\n            \"image\": \"https://arweave.net/gEJVO_rXu5fX7iFhlL5F1LcGTTFAgG5ARyBifSOAHRs\"\n        }]\n    \n}","expose":true,"level":"error","message":"Unexpected token : in JSON at position 4127 Unexpected token : in JSON at position 4127","stack":"SyntaxError: Unexpected token : in JSON at position 4127\n    at JSON.parse (<anonymous>)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"body":"{\n    \"walletAddress\": \"5BAsvuu818YEZhhNj2zKW28nBrtTqu4bKgTjuJq9BarT\",\n}","expose":true,"level":"error","message":"Unexpected token } in JSON at position 71 Unexpected token } in JSON at position 71","stack":"SyntaxError: Unexpected token } in JSON at position 71\n    at JSON.parse (<anonymous>)\n    at parse (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/types/json.js:89:19)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/body-parser/lib/read.js:121:18\n    at invokeCallback (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:224:16)\n    at done (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:387:35)\n    at endReadableNT (internal/streams/readable.js:1317:12)\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"nfts is not defined nfts is not defined","stack":"ReferenceError: nfts is not defined\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:54:5\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:56:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":16410,"codeName":"Location16410","level":"error","message":"FieldPath field names may not start with '$'. FieldPath field names may not start with '$'.","ok":0,"stack":"MongoServerError: FieldPath field names may not start with '$'.\n    at MessageStream.messageHandler (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:462:30)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\n    at MessageStream._write (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":16410,"codeName":"Location16410","level":"error","message":"FieldPath field names may not start with '$'. FieldPath field names may not start with '$'.","ok":0,"stack":"MongoServerError: FieldPath field names may not start with '$'.\n    at MessageStream.messageHandler (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:462:30)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\n    at MessageStream._write (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":16410,"codeName":"Location16410","level":"error","message":"FieldPath field names may not start with '$'. FieldPath field names may not start with '$'.","ok":0,"stack":"MongoServerError: FieldPath field names may not start with '$'.\n    at MessageStream.messageHandler (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:462:30)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\n    at MessageStream._write (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Cannot read property 'find' of undefined Cannot read property 'find' of undefined","stack":"TypeError: Cannot read property 'find' of undefined\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:55:43\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"Cannot read property 'find' of undefined Cannot read property 'find' of undefined","stack":"TypeError: Cannot read property 'find' of undefined\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:55:43\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":16410,"codeName":"Location16410","level":"error","message":"FieldPath field names may not start with '$'. FieldPath field names may not start with '$'.","ok":0,"stack":"MongoServerError: FieldPath field names may not start with '$'.\n    at MessageStream.messageHandler (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/connection.js:462:30)\n    at MessageStream.emit (events.js:375:28)\n    at processIncomingData (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:108:16)\n    at MessageStream._write (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/node_modules/mongodb/lib/cmap/message_stream.js:28:9)\n    at writeOrBuffer (internal/streams/writable.js:358:12)\n    at MessageStream.Writable.write (internal/streams/writable.js:303:10)\n    at Socket.ondata (internal/streams/readable.js:726:22)\n    at Socket.emit (events.js:375:28)\n    at addChunk (internal/streams/readable.js:290:12)\n    at readableAddChunk (internal/streams/readable.js:265:9)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"kind":"string","level":"error","message":"Cast to string failed for value \"{ gallery_name: '#1889 Panda St Pentz' }\" (type Object) at path \"gallery_name\" for model \"Nft\" Cast to string failed for value \"{ gallery_name: '#1889 Panda St Pentz' }\" (type Object) at path \"gallery_name\" for model \"Nft\"","path":"gallery_name","reason":null,"stack":"CastError: Cast to string failed for value \"{ gallery_name: '#1889 Panda St Pentz' }\" (type Object) at path \"gallery_name\" for model \"Nft\"\n    at model.Query.exec (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/query.js:4641:21)\n    at model.Query.Query.then (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/mongoose/lib/query.js:4740:15)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)","stringValue":"\"{ gallery_name: '#1889 Panda St Pentz' }\"","value":{"gallery_name":"#1889 Panda St Pentz"},"valueType":"Object"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"nftInPent.nfts.include is not a function nftInPent.nfts.include is not a function","stack":"TypeError: nftInPent.nfts.include is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:57:24\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:561:11)\n    at ServerResponse.header (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:776:10)\n    at ServerResponse.send (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/node_modules/express/lib/response.js:267:15)\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:9\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"nftInPent.nfts.include is not a function nftInPent.nfts.include is not a function","stack":"TypeError: nftInPent.nfts.include is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:24\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"error","message":"nftInPent.nfts.include is not a function nftInPent.nfts.include is not a function","stack":"TypeError: nftInPent.nfts.include is not a function\n    at /Users/mac/Desktop/WorkSpace/pentz_api_nfts_by_wallet/routes/nfts.js:59:24\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/panda_pentz..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb+srv://PentRex:w5fwEs0RtOD5NdvU@cluster0.tiapz.mongodb.net/panda_pentz?retryWrites=true&w=majority..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb+srv://PentRex:w5fwEs0RtOD5NdvU@cluster0.tiapz.mongodb.net/panda_pentz?retryWrites=true&w=majority..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/abcltd..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/abcltd..."}
+{"level":"error","message":"Nft is not defined Nft is not defined","stack":"ReferenceError: Nft is not defined\n    at validateManufacturing (/Users/mac/Desktop/Practice_projects/Nodejs/test/models/manufacturing.js:28:28)\n    at /Users/mac/Desktop/Practice_projects/Nodejs/test/routes/manufacturings.js:16:23\n    at newFn (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mac/Desktop/Practice_projects/Nodejs/test/node_modules/express/lib/router/index.js:341:12)"}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/abcltd..."}
+{"level":"info","message":"Listening on port 3001..."}
+{"level":"info","message":"Connected to mongodb://localhost/abcltd..."}
